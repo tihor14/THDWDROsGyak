@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1651184156 source:c:\users\kisfr\desktop\egyetem\2\os\9gyak\osgyak\main.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<sys/file.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+
